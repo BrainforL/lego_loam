@@ -1,0 +1,7 @@
+<library path="lib/liblocalization_nodelet">
+<class name="localization/LocalizationNodelet" type="localization::LocalizationNodelet" base_class_type="nodelet::Nodelet" />
+</library>
+
+<library path="lib/libglobalmap_server_nodelet">
+<class name="localization/GlobalmapServerNodelet" type="localization::GlobalmapServerNodelet" base_class_type="nodelet::Nodelet" />
+</library>
